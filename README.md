@@ -47,7 +47,7 @@ Welcome to the **Movie Page** project! This web application allows users to expl
 
 ## Screenshots
 
-![Movie Page Screenshot](/screenshots/movie-page.png)
+![Movie Page Screenshot](https://capture.dropbox.com/aLrQhvKG2UfJrKvB)
 
 ## Contributing
 
