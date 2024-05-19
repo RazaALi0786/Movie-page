@@ -45,10 +45,6 @@ Welcome to the **Movie Page** project! This web application allows users to expl
 - React Router
 - OMDB API
 
-## Screenshots
-
-![Movie Page Screenshot](/my-app/src/image/Screenshot%202024-05-20%20at%2012.30.31%20AM.png)
-
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
