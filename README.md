@@ -49,10 +49,4 @@ Welcome to the **Movie Page** project! This web application allows users to expl
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
-
-Feel free to customize this README to match your project specifics. Good luck with your Movie Page project! 🎥🍿
