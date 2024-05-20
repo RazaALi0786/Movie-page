@@ -1,12 +1,10 @@
-@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@400;500&family=Lora:wght@400;500&family=Poppins:wght@400;600&display=swap");
-
-
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
 :root {
@@ -190,6 +188,7 @@ a {
 a:hover {
   background-color: rgb(7, 84, 65);
   color: white;
+  box-shadow: rgba(50, 243, 2, 0.147) 12px 12px 18px 0px;
 }
 
 a:hover h2 {
