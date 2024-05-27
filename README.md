@@ -49,4 +49,6 @@ Welcome to the **Movie Page** project! This web application allows users to expl
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
+## Hosted on
+https://raza-movie-page.netlify.app/
 ---
